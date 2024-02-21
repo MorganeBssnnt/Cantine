@@ -12,6 +12,8 @@ export class AdminRecapPage implements OnInit {
   ngOnInit() {
   }
 
+  //TODO FAIRE LA FONCTION SI EMPORTE OU NON
+  //TODO FAIRE LA FONCTION ANNULER UNE COMMANDE-->
 
 
 
